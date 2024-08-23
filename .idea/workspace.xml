@@ -5,6 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="292d0f48-b6ad-4ba1-9036-c1f3971b7ff5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AllOrders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Authorization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OrderSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ResultResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UserSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/OrderCreateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/OrderGetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/UserChangeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/UserCreateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/UserLoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,12 +26,22 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2kk3jRE2DVxVhDiTvDVx6fuMfVI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -26,12 +50,114 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "JUnit.OrderCreateTest.createOrderIngredientsErrorFalse.executor": "Run",
+    "JUnit.OrderCreateTest.createOrderTrue.executor": "Run",
+    "JUnit.OrderCreateTest.createOrderWithoutIngredientsFalse.executor": "Run",
+    "JUnit.OrderCreateTest.createOrderWithoutLoginFalse.executor": "Run",
+    "JUnit.OrderCreateTest.createOrderWithoutLoginTrue.executor": "Run",
+    "JUnit.OrderCreateTest.createUserTrue.executor": "Run",
+    "JUnit.OrderCreateTest.executor": "Run",
+    "JUnit.OrderGetTest.executor": "Run",
+    "JUnit.OrderGetTest.getOrdersWithLoginTrue.executor": "Run",
+    "JUnit.OrderGetTest.getOrdersWithoutLoginTrue.executor": "Run",
+    "JUnit.UserChangeTest.changeUserDataTrue.executor": "Run",
+    "JUnit.UserChangeTest.changeUserDataWithoutLoginFalse.executor": "Run",
+    "JUnit.UserChangeTest.changeUserEmailTrue.executor": "Run",
+    "JUnit.UserChangeTest.changeUserNameTrue.executor": "Run",
+    "JUnit.UserChangeTest.executor": "Run",
+    "JUnit.UserCreateTest.createCourierTrue.executor": "Run",
+    "JUnit.UserCreateTest.createUserTrue.executor": "Debug",
+    "JUnit.UserCreateTest.executor": "Run",
+    "JUnit.UserLoginTest.executor": "Run",
+    "JUnit.UserLoginTest.loginUserEmailFalse.executor": "Run",
+    "JUnit.UserLoginTest.loginUserPasswordFalse.executor": "Run",
+    "JUnit.UserLoginTest.loginUserTrue.executor": "Run",
+    "JUnit.UserTest.createDoubleUserFalse.executor": "Run",
+    "JUnit.UserTest.createDoubleUserNameFalse.executor": "Run",
+    "JUnit.UserTest.createUserTrue.executor": "Run",
+    "JUnit.UserTest.createUserWithoutEmailFalse.executor": "Run",
+    "JUnit.UserTest.createUserWithoutNameFalse.executor": "Run",
+    "JUnit.UserTest.createUserWithoutPasswordFalse.executor": "Run",
+    "JUnit.UserTest.dataCleaning.executor": "Run",
+    "Maven.diplom_2 [verify].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "develop2",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn verify" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.OrderCreateTest">
+    <configuration name="OrderCreateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="diplom_2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OrderCreateTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderGetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="diplom_2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OrderGetTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserChangeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="diplom_2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserChangeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserChangeTest.changeUserDataTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="diplom_2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserChangeTest" />
+      <option name="METHOD_NAME" value="changeUserDataTrue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserChangeTest.changeUserEmailTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="diplom_2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserChangeTest" />
+      <option name="METHOD_NAME" value="changeUserEmailTrue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OrderCreateTest" />
+        <item itemvalue="JUnit.OrderGetTest" />
+        <item itemvalue="JUnit.UserChangeTest" />
+        <item itemvalue="JUnit.UserChangeTest.changeUserEmailTrue" />
+        <item itemvalue="JUnit.UserChangeTest.changeUserDataTrue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.22-corretto-11.0.22-4caba194b151-868cef46" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -42,5 +168,22 @@
       <updated>1723813882155</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/test/java/UserChangeTest.java</url>
+          <line>15</line>
+          <properties field="result" class="UserChangeTest" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/OrderGetTest.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
