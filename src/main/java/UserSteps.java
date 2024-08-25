@@ -9,10 +9,14 @@ import static io.restassured.RestAssured.given;
 
 public class UserSteps {
     public final String BASE_URI = "https://stellarburgers.nomoreparties.site";
-    public final String POST_CREATE = "/api/auth/register";
+    public final String POST_CREATE;
     public final String POST_LOGIN = "/api/auth/login";
     public final String POST_LOGOUT = "/api/auth/logout";
     public final String ALL_CHANGE = "/api/auth/user";
+
+    public UserSteps() {
+        POST_CREATE = "/api/auth/register";
+    }
 
     public Response createUser(String email, String password, String name) {
         return given()

@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="292d0f48-b6ad-4ba1-9036-c1f3971b7ff5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AllOrders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Authorization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OrderSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ResultResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UserSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/OrderCreateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/OrderGetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/UserChangeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/UserCreateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/UserLoginTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/UserSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UserSteps.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,46 +36,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "JUnit.OrderCreateTest.createOrderIngredientsErrorFalse.executor": "Run",
-    "JUnit.OrderCreateTest.createOrderTrue.executor": "Run",
-    "JUnit.OrderCreateTest.createOrderWithoutIngredientsFalse.executor": "Run",
-    "JUnit.OrderCreateTest.createOrderWithoutLoginFalse.executor": "Run",
-    "JUnit.OrderCreateTest.createOrderWithoutLoginTrue.executor": "Run",
-    "JUnit.OrderCreateTest.createUserTrue.executor": "Run",
-    "JUnit.OrderCreateTest.executor": "Run",
-    "JUnit.OrderGetTest.executor": "Run",
-    "JUnit.OrderGetTest.getOrdersWithLoginTrue.executor": "Run",
-    "JUnit.OrderGetTest.getOrdersWithoutLoginTrue.executor": "Run",
-    "JUnit.UserChangeTest.changeUserDataTrue.executor": "Run",
-    "JUnit.UserChangeTest.changeUserDataWithoutLoginFalse.executor": "Run",
-    "JUnit.UserChangeTest.changeUserEmailTrue.executor": "Run",
-    "JUnit.UserChangeTest.changeUserNameTrue.executor": "Run",
-    "JUnit.UserChangeTest.executor": "Run",
-    "JUnit.UserCreateTest.createCourierTrue.executor": "Run",
-    "JUnit.UserCreateTest.createUserTrue.executor": "Debug",
-    "JUnit.UserCreateTest.executor": "Run",
-    "JUnit.UserLoginTest.executor": "Run",
-    "JUnit.UserLoginTest.loginUserEmailFalse.executor": "Run",
-    "JUnit.UserLoginTest.loginUserPasswordFalse.executor": "Run",
-    "JUnit.UserLoginTest.loginUserTrue.executor": "Run",
-    "JUnit.UserTest.createDoubleUserFalse.executor": "Run",
-    "JUnit.UserTest.createDoubleUserNameFalse.executor": "Run",
-    "JUnit.UserTest.createUserTrue.executor": "Run",
-    "JUnit.UserTest.createUserWithoutEmailFalse.executor": "Run",
-    "JUnit.UserTest.createUserWithoutNameFalse.executor": "Run",
-    "JUnit.UserTest.createUserWithoutPasswordFalse.executor": "Run",
-    "JUnit.UserTest.dataCleaning.executor": "Run",
-    "Maven.diplom_2 [verify].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "develop2",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;JUnit.OrderCreateTest.createOrderIngredientsErrorFalse.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.OrderCreateTest.createOrderTrue.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.OrderCreateTest.createOrderWithoutIngredientsFalse.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.OrderCreateTest.createOrderWithoutLoginFalse.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.OrderCreateTest.createOrderWithoutLoginTrue.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.OrderCreateTest.createUserTrue.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.OrderCreateTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.OrderGetTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.OrderGetTest.getOrdersWithLoginTrue.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.OrderGetTest.getOrdersWithoutLoginTrue.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserChangeTest.changeUserDataTrue.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserChangeTest.changeUserDataWithoutLoginFalse.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserChangeTest.changeUserEmailTrue.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserChangeTest.changeUserNameTrue.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserChangeTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserCreateTest.createCourierTrue.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserCreateTest.createUserTrue.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.UserCreateTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserLoginTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserLoginTest.loginUserEmailFalse.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserLoginTest.loginUserPasswordFalse.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserLoginTest.loginUserTrue.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserTest.createDoubleUserFalse.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserTest.createDoubleUserNameFalse.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserTest.createUserTrue.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserTest.createUserWithoutEmailFalse.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserTest.createUserWithoutNameFalse.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserTest.createUserWithoutPasswordFalse.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserTest.dataCleaning.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.diplom_2 [verify].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop2&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn verify" />
@@ -167,7 +155,20 @@
       <option name="presentableId" value="Default" />
       <updated>1723813882155</updated>
     </task>
+    <task id="LOCAL-00001" summary="Диплом часть 2 - АПИ">
+      <option name="closed" value="true" />
+      <created>1724448840651</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724448840651</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Диплом часть 2 - АПИ" />
+    <option name="LAST_COMMIT_MESSAGE" value="Диплом часть 2 - АПИ" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
